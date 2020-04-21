@@ -1,0 +1,26 @@
+# Name: Aishwarya Varma
+# Date: 3/13/2020
+# Purpose: CS 111 Final Project
+
+# Constants
+
+GWINDOW_WIDTH = 1280               
+GWINDOW_HEIGHT = 969
+TIME_STEP = 10 #check to see what this means!
+TIME_STEP_TWO = 2000
+TIME_STEP_THREE = 5000
+xpos = 100
+ypos = 100
+APPLE_WIDTH = 60
+APPLE_HEIGHT = 65
+ISAAC_WIDTH = 127
+ISAAC_HEIGHT = 120
+WORM_WIDTH = 117
+WORM_HEIGHT = 115
+MIN_Y_VEL = 1
+MAX_Y_VEL = 5
+ISAAC_XVEL = 50
+ISAAC_YVEL = 0
+SB_WIDTH = 300
+SB_HEIGHT = 150
+SB_FONT = "24px 'Courier'"
